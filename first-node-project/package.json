@@ -1,0 +1,23 @@
+{
+  "name": "firstproject",
+  "version": "0.0.1",
+  "description": "Este es mi primer proyecto",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "nodejs"
+  ],
+  "author": "jhamilchar",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
